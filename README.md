@@ -61,7 +61,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot (148)](https://github.com/user-attachments/assets/7c8a1e03-aea7-4d04-8335-db6a3b1c88d2)
+![D flipflop](https://github.com/user-attachments/assets/5a397e10-3d91-45e8-aad7-010dde1ced70)
+
 
 
 **RESULTS**
